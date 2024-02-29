@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info
+.pytest_cache
+.ipynb_checkpoints
+.DS_Store
+.idea
+
+checkpoints/
+datasets/
+outputs/
+test.ipynb
+load.ipynb
